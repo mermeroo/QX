@@ -1,4 +1,4 @@
-Quantumult X
+Quantumult X  config
 
 QX
 
